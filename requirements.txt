@@ -1,0 +1,15 @@
+transforms
+langchain
+sentence-transformers
+tqdm
+openpyxl
+openai
+pandas
+datasets
+langchain-community
+ragatouille
+notebook
+ipywidgets
+ollama
+langchain-deepseek
+plotly
